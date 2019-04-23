@@ -74,7 +74,7 @@
           $("#role").text(data.role);
           $("#age").text(data.age);
           $("#force-points").text(data.forcePoints);
-          $("#img").src(data.img);
+          $("#img").attr('src','data.img');
         }
         else {
           $("#name").text("The force is not strong with this one. Your character was not found.");
