@@ -28,6 +28,7 @@ var characters = [
     role: "Sith Lord",
     age: 200,
     forcePoints: 1200
+    img: "facts-img.jpg"
   },
   {
     routeName: "obiwankenobi",
