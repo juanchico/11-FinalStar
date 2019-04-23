@@ -29,7 +29,7 @@ var characters = [
     role: "facts",
     age: 200,
     forcePoints: 1200,
-    img: "facts-img.jpg"
+    img: "data:facts-img.jpg"
   },
   {
     routeName: "obiwankenobi",
