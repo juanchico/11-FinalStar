@@ -28,7 +28,8 @@ var characters = [
     name: "Darth Maul",
     role: "facts",
     age: 200,
-    forcePoints: 1200
+    forcePoints: 1200,
+    img: "facts-img.jpg"
   },
   {
     routeName: "obiwankenobi",
