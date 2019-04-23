@@ -37,7 +37,7 @@ var characters = [
     role: "Jedi Master",
     age: 55,
     forcePoints: 1350
-    img: "src=https://github.com/juanchico/11-FinalStar/blob/master/facts-img.jpg"
+    img: "https://github.com/juanchico/11-FinalStar/blob/master/facts-img.jpg"
   }
 ];
 
