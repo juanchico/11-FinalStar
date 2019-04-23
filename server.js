@@ -20,7 +20,8 @@ var characters = [
     name: "Yoda",
     role: "Jedi Master",
     age: 900,
-    forcePoints: 2000
+    forcePoints: 2000,
+    img: "facts-img.jpg"
   },
   {
     routeName: "darthmaul",
