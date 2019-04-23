@@ -20,16 +20,14 @@ var characters = [
     name: "Yoda",
     role: "Jedi Master",
     age: 900,
-    forcePoints: 2000,
-    img: "facts-img.jpg"
+    forcePoints: 2000
   },
   {
     routeName: "darthmaul",
     name: "Darth Maul",
     role: "facts",
     age: 200,
-    forcePoints: 1200,
-    img: "data:facts-img.jpg"
+    forcePoints: 1200
   },
   {
     routeName: "obiwankenobi",
@@ -37,7 +35,6 @@ var characters = [
     role: "Jedi Master",
     age: 55,
     forcePoints: 1350
-    img: "https://raw.githubusercontent.com/juanchico/11-FinalStar/master/facts-img.jpg"
   }
 ];
 
