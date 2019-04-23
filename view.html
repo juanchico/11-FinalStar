@@ -50,6 +50,7 @@
               <h3><strong>Role:</strong> <span id="role">Jedi Master</span></h3>
               <h3><strong>Age:</strong> <span id="age">900</span></h3>
               <h3><strong>Force Points:</strong> <span id="force-points">2000</span></h3>
+              <img src="facts-img.jpg">
             </div>
           </div>
         </div>
@@ -73,6 +74,7 @@
           $("#role").text(data.role);
           $("#age").text(data.age);
           $("#force-points").text(data.forcePoints);
+          $("#img").attr(data.img);
         }
         else {
           $("#name").text("The force is not strong with this one. Your character was not found.");
